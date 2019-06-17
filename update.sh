@@ -1,5 +1,5 @@
 #!/bin/bash
-# Grab the latest version of the jargon_file, and if successful, replace the old one
+# Grab the latest version of the jargon file site
 
 wget \
      --recursive \
