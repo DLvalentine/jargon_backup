@@ -11,6 +11,4 @@ wget \
      --domains catb.org \
      --no-parent \
         http://www.catb.org/jargon/
-
-
-rm -rf www.catb.org/jargon/oldversions
+        
