@@ -7,5 +7,4 @@ this file's last commit) to hang onto in a publically available repo.
 Other repos exist that do something very similar, but I'd also like my own in the event that I want to plug it in or link it to a future blog project. I throw around the jargon a lot ;)
 
 
-There's a script, `update.sh`, that can be run to use `wget` to pull the latest version for offline use. That is 
-how I rip it, using tar to compress it for this repo.
+There's a script, `update.sh`, that can be used to update the backup. If you're on Windows, you will need GOW or Cygwin, or Git Bash to run this. I recommend Git Bash, and running it *in* Git Bash.
